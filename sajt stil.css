@@ -1,0 +1,77 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Naslov{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.jedan{
+    font-size: 20px;
+    margin-left: 10px;
+    display: flex;
+}
+.jedan h2{
+    margin-left: 50px;
+    font-size: 20px;
+    display: inline-block;
+    width: 300px;
+}
+.jedan a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: grey;
+}
+.jedan a:hover{
+    color: aqua;
+}
+
+.jedan li{
+    display: inline-block;
+} 
+
+.dva{
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 300px;
+}
+.dva p{
+    font-weight: bold;
+    font-size: 50px;
+    margin-left: 200px;
+}
+.dva p2{
+    display: inline-block;
+    width: 300px;
+    margin-left: 200px;
+    font-size: 30px;
+}
+.dva ul{
+    margin-left: 150px;
+    padding: 30px;
+}
+.dva li{
+    color: white;
+    background-color: blue;
+    padding: 20px;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+.dva p3{
+    display: inline-block;
+    padding: 20px;
+    font-size: 15px;
+    margin-left: 150px;
+}
+.tri{
+    background-color: rgb(255, 0, 242);
+    color: white;
+}
+.tri ul{
+    margin-left: 50px;
+}
+.tri li{
+    display: inline-block;
+    margin-left: 100px;
+}
+
